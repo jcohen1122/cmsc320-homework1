@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A remote repository in Git is a repository hosted on a separate server, usually used for collaboration on common code.
