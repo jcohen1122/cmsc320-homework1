@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 What is the difference between a merge and a rebase?
 
 Merging in Git combines changes from one branch into another with a new merge commit, preserving branch history. Rebasing replays commits from one branch onto another, creating a linear history and often used for feature branches to maintain a cleaner commit history.
+=======
+What is a remote repository?
+
+A remote repository in Git is a repository hosted on a separate server, usually used for collaboration on common code.
+>>>>>>> progress
